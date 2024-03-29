@@ -35,10 +35,7 @@ const CONFIG = {
         {
           title: 'DoMaLoG',
           description:
-            'Domalog is perfect for turning experiences into value, breaking out of your shell and unlocking your potential.
-Not only can you easily take and review notes,
-You can also organize your thinking based on the gap between your peers' perspectives.
-We will continue to evolve in order to overcome the barriers of taste together with you.',
+            'Domalog is perfect for turning experiences into value, breaking out of your shell and unlocking your potential. Not only can you easily take and review notes, You can also organize your thinking based on the gap between your peers" perspectives.We will continue to evolve in order to overcome the barriers of taste together with you.',
           imageUrl:
             'https://domalog.fun/images/fav-icon.png',
           link: 'https://domalog.fun/',
@@ -46,9 +43,7 @@ We will continue to evolve in order to overcome the barriers of taste together w
         {
           title: 'Myanmar Polestar',
           description:
-            'Myanmar Polestar  is a fully Myanmar owned Destination Management(DMC) and
-              MICE Management Company, first established in 2001.
-              With an office of 30 staff based in Yangon',
+            'Myanmar Polestar  is a fully Myanmar owned Destination Management(DMC) and MICE Management Company, first established in 2001. With an office of 30 staff based in Yangon',
           imageUrl:
             'https://www.myanmarpolestar.com/dist/front/img/logo1.png',
           link: 'https://www.myanmarpolestar.com/',
