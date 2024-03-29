@@ -132,6 +132,13 @@ const CONFIG = {
       to: 'February 2024',
       companyLink: 'https://www.dnp-ds.co.jp/',
     },
+     {
+      company: 'Pandora Technology',
+      position: 'CTO',
+      from: 'August 2023',
+      to: 'January 2024',
+      companyLink: 'https://www.pandoratech.io/',
+    },
     {
       company: '技術商社 株式会社ジェイテック',
       position: 'Software Engineer',
