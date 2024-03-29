@@ -61,8 +61,8 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Kein Pyi Si',
-    description: '',
-    imageURL: '',
+    description: 'Kein Pyi Si "s Code Repository',
+    imageURL: 'https://avatars.githubusercontent.com/u/38047639?v=4',
   },
   social: {
     linkedin: 'keinpyisi',
