@@ -56,6 +56,14 @@ const CONFIG = {
             'https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg',
           link: 'https://colab.research.google.com/drive/1tE8Ev7PFDTJj8HgMSVUZCuOMFkMyxPFB?usp=sharing',
         },
+         {
+          title: 'Tarot Horroscope',
+          description:
+            'Tarot Forecasting App Without ADS (IOS)',
+          imageUrl:
+            'https://metro.co.uk/wp-content/uploads/2022/05/Beginners-guide-to-tarot-part-1-BP-b183.gif?quality=90&strip=all&zoom=1&resize=644%2C338',
+          link: 'https://apps.apple.com/app/id1446976990',
+        },
       ],
     },
   },
