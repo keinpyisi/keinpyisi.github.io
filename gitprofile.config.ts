@@ -130,6 +130,13 @@ const CONFIG = {
       to: 'September 2022',
       companyLink: 'https://www.facebook.com/myanmarpolestartours/',
     },
+    {
+      company: 'New Worth Asia Company Ltd',
+      position: 'Junior Engineer',
+      from: 'September 2018',
+      to: 'March 2019',
+      companyLink: 'https://www.myanmaryp.com/company/85011/New_Worth_Co_Ltd',
+    },
   ],
   certifications: [
      {
@@ -163,6 +170,12 @@ const CONFIG = {
       link: 'https://tokyo.ymca.or.jp/japanese/',
     },
     {
+      name: 'Gold Prize',
+      body: 'Metro IT and Japanese Language Center',
+      year: 'June 2018',
+      link: 'https://metro-myanmar.com/mic/Eindex.html',
+    },
+    {
       name: 'Information Technology Professionals Examination Council ',
       body: 'FE 「Fundamental Information Technology Engineer Examination」 Pass',
       year: 'October 2017',
@@ -171,46 +184,40 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Waseda Bunri College',
+      degree: 'Diploma',
+      from: '2021',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Tokyo YMCA Japanese Language School',
+      degree: 'Certificate',
+      from: '2019',
+      to: '2021',
+    },
+     {
+      institution: 'Metro IT and Japanese Language Center',
+      degree: 'Diploma',
+      from: '2016',
+      to: '2018',
+    },
+    {
+      institution: 'Basic Education High School Yankin 1',
+      degree: 'Bachelor',
+      from: '2011',
+      to: '2016',
     },
   ],
-  publications: [
-    {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+ 
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-XT40EHN0G7', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
@@ -218,7 +225,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
