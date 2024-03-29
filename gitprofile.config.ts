@@ -48,6 +48,14 @@ const CONFIG = {
             'https://www.myanmarpolestar.com/dist/front/img/logo1.png',
           link: 'https://www.myanmarpolestar.com/',
         },
+         {
+          title: 'Myanmar AI ChatBot',
+          description:
+            'Myanmar AI ChatBot Gathered Dataset and Trained By Me. To Test Press Here.',
+          imageUrl:
+            'https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg',
+          link: 'https://colab.research.google.com/drive/1tE8Ev7PFDTJj8HgMSVUZCuOMFkMyxPFB?usp=sharing',
+        },
       ],
     },
   },
