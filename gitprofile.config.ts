@@ -57,28 +57,28 @@ We will continue to evolve in order to overcome the barriers of taste together w
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Kein Pyi Si',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'keinpyisi',
+    twitter: 'keinpyisi',
+    mastodon: '',
     researchGate: '',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    facebook: 'Kein Pyi Si',
+    instagram: 'krulkein39',
+    youtube: 'keinpyisi1190', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://keinpyisi.github.io/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'keinpyisi@gmail.com',
   },
   resume: {
     fileUrl:
@@ -87,18 +87,17 @@ We will continue to evolve in order to overcome the barriers of taste together w
   skills: [
     'PHP',
     'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Codeigniter',
+    'Java',
+    'Android',
+    'Python',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Vagrant',
+    'Ionic',
+    'Ajax',
+    
   ],
   experiences: [
     {
