@@ -61,7 +61,7 @@ const CONFIG = {
     twitter: 'keinpyisi',
     mastodon: '',
     researchGate: '',
-    facebook: 'Kein Pyi Si',
+    facebook: 'keinpyisi',
     instagram: 'krulkein39',
     youtube: 'keinpyisi1190', // example: 'pewdiepie'
     dribbble: '',
