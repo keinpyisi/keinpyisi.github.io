@@ -126,17 +126,47 @@ const CONFIG = {
     {
       company: 'Myanmar Polestar',
       position: 'Backend Engineer',
-      from: 'April 2021',
-      to: 'September 2021',
+      from: 'April 2022',
+      to: 'September 2022',
       companyLink: 'https://www.facebook.com/myanmarpolestartours/',
     },
   ],
   certifications: [
+     {
+      name: 'としまイノベーションプランコンテスト 2022',
+      body: 'ドリームビジネスプラン部門　グランプリ From Toshima City',
+      year: 'November 2022',
+      link: 'https://www.tokyo-cci.or.jp/toshima/innovationplans/2022/',
+    },
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '特別賞「Special Award」',
+      body: 'Won First Prize in the Programming Contest From 早稲田文理専門学校',
+      year: 'November 2022',
+      link: 'https://www.wbc.ac.jp/',
+    },
+    {
+      name: 'Japanese-Language Proficiency Test',
+      body: 'Level N2 Pass',
+      year: 'December 2021',
+      link: 'https://www.jlpt.jp/e/',
+    },
+    {
+      name: 'TOEIC',
+      body: 'Mark: 880',
+      year: 'October 2022',
+      link: 'https://www.iibc-global.org/toeic.html',
+    },
+    {
+      name: 'Scholarship from YMCAにほんご学院',
+      body: '10万円',
+      year: 'July 2020 ~ November 2020',
+      link: 'https://tokyo.ymca.or.jp/japanese/',
+    },
+    {
+      name: 'Information Technology Professionals Examination Council ',
+      body: 'FE 「Fundamental Information Technology Engineer Examination」 Pass',
+      year: 'October 2017',
+      link: 'https://itpec.org/index.html',
     },
   ],
   educations: [
