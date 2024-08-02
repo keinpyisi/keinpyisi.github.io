@@ -80,6 +80,14 @@ const CONFIG = {
             'https://otokumiyell.jp/common/img/favicon.ico',
           link: 'https://otokumiyell.jp/demo/top/10001',
         },
+        {
+          title: 'Hansoku Manager',
+          description:
+            'Product Image Database System and Priting Service Management Software',
+          imageUrl:
+            '',
+          link: 'http://hansoku1.ascon.co.jp/',
+        },
       ],
     },
   },
