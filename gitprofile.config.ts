@@ -72,6 +72,14 @@ const CONFIG = {
             'https://www.mizuhobank.co.jp/favicon.ico',
           link: 'https://e-entry.dpost-k.jp/other/order_wf.php',
         },
+         {
+          title: 'Otokumiyell',
+          description:
+            'Pamflet, Products and Promotions Website for Super Markets',
+          imageUrl:
+            'https://otokumiyell.jp/common/img/favicon.ico',
+          link: 'https://otokumiyell.jp/demo/top/10001',
+        },
       ],
     },
   },
