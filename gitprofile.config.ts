@@ -64,6 +64,14 @@ const CONFIG = {
             'https://metro.co.uk/wp-content/uploads/2022/05/Beginners-guide-to-tarot-part-1-BP-b183.gif?quality=90&strip=all&zoom=1&resize=644%2C338',
           link: 'https://apps.apple.com/app/id1446976990',
         },
+         {
+          title: 'Mizuho Bank Form Registeration System',
+          description:
+            'Making A Registeration Systems for Mizuho Bank',
+          imageUrl:
+            'https://e-entry.dpost-k.jp/other/common/images/logo_pc.gif',
+          link: 'https://e-entry.dpost-k.jp/other/order_wf.php',
+        },
       ],
     },
   },
