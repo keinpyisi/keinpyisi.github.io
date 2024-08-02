@@ -69,7 +69,7 @@ const CONFIG = {
           description:
             'Making A Registeration Systems for Mizuho Bank',
           imageUrl:
-            'https://e-entry.dpost-k.jp/other/common/images/logo_pc.gif',
+            'https://www.mizuhobank.co.jp/favicon.ico',
           link: 'https://e-entry.dpost-k.jp/other/order_wf.php',
         },
       ],
