@@ -136,11 +136,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: '株式会社アスコン',
+      company: '(株)スタッフサービス',
       position: 'Backend Engineer',
       from: 'March 2024',
       to: 'Present',
-      companyLink: 'https://www.ascon.co.jp/',
+      companyLink: 'https://www.staffservice.co.jp/',
     },
     {
       company: 'PwR株式会社',
@@ -148,20 +148,6 @@ const CONFIG = {
       from: 'December 2022',
       to: 'Present',
       companyLink: 'https://domalog.fun/',
-    },
-    {
-      company: '株式会社DNPデジタルソリューション',
-      position: 'Software Engineer',
-      from: 'December 2023',
-      to: 'February 2024',
-      companyLink: 'https://www.dnp-ds.co.jp/',
-    },
-     {
-      company: 'Pandora Technology',
-      position: 'CTO',
-      from: 'August 2023',
-      to: 'January 2024',
-      companyLink: 'https://www.pandoratech.io/',
     },
     {
       company: '技術商社 株式会社ジェイテック',
@@ -200,7 +186,13 @@ const CONFIG = {
     },
   ],
   certifications: [
-     {
+    {
+      name: 'Japanese-Language Proficiency Test',
+      body: 'Level N1 Pass',
+      year: 'August 2024',
+      link: 'https://www.jlpt.jp/e/',
+    }, 
+    {
       name: 'としまイノベーションプランコンテスト 2022',
       body: 'ドリームビジネスプラン部門　グランプリ From Toshima City',
       year: 'November 2022',
@@ -211,12 +203,6 @@ const CONFIG = {
       body: 'Won First Prize in the Programming Contest From 早稲田文理専門学校',
       year: 'November 2022',
       link: 'https://www.wbc.ac.jp/',
-    },
-    {
-      name: 'Japanese-Language Proficiency Test',
-      body: 'Level N2 Pass',
-      year: 'December 2021',
-      link: 'https://www.jlpt.jp/e/',
     },
     {
       name: 'TOEIC',
@@ -257,7 +243,7 @@ const CONFIG = {
       to: '2021',
     },
      {
-      institution: 'Metro IT and Japanese Language Center',
+      institution: '専門学校メトロITビジネスカレッジ',
       degree: 'Diploma',
       from: '2016',
       to: '2018',
