@@ -150,7 +150,7 @@ const CONFIG = {
       companyLink: 'https://domalog.fun/',
     },
     {
-      company: '技術商社 株式会社ジェイテック',
+      company: '（株）ジェイテックアドバンストテクノロジ',
       position: 'Software Engineer',
       from: 'April 2023',
       to: 'September 2023',
